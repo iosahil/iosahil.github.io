@@ -16,7 +16,7 @@
     "next": "latest",
     "react": "^18.0.0-beta-fdc1d617a-20211118",
     "react-dom": "latest",
-    "react-draggable": "^4.4.4",
+    "react-draggable": "^4.5.0",
     "react-ga": "^3.3.0",
     "react-onclickoutside": "^6.11.2"
   },
