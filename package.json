@@ -12,7 +12,7 @@
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "expr-eval": "^2.0.2",
-    "jquery": "^3.6.0",
+    "jquery": "^3.7.1",
     "next": "latest",
     "react": "^18.0.0-beta-fdc1d617a-20211118",
     "react-dom": "latest",
